@@ -70,15 +70,3 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
 #
  
 </div>
-
-
-
-
-
-  <div align="center" valign="top"><br> 
-    
-  ##
-  
-</p>
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
