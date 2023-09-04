@@ -6,6 +6,19 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaCarmo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+<div align="center" valign="top"><br>
+    <img align="center" alt="gih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="gih-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="gih-Intellij" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
+    <img align="center" alt="gih-Camel" height="30" width="40" src="https://www.svgrepo.com/show/353403/apache-camel.svg">
+    <img align="center" alt="gih-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="gih-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+    <img align="center" alt="gih-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+    <img align="center" alt="gih-C" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"> 
+    <img align="center" alt="gih-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</div><br>
+
 <hr />
 <a href="https://github.com/GeovannaCarmo" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -58,18 +71,7 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
  
 </div>
 
-<div align="center" valign="top"><br>
-    <img align="center" alt="gih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="gih-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <img align="center" alt="gih-Intellij" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
-    <img align="center" alt="gih-Camel" height="30" width="40" src="https://www.svgrepo.com/show/353403/apache-camel.svg">
-    <img align="center" alt="gih-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="gih-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-    <img align="center" alt="gih-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-    <img align="center" alt="gih-C" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"> 
-    <img align="center" alt="gih-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-</div><br>
 
 
 
