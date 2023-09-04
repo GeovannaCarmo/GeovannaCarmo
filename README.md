@@ -1,4 +1,4 @@
-<h1 align="center"> Descodificando essa vida doida </h1>
+<h1 align="center"> Descodificando essa vida</h1>
 
 <div align="center">
   <a href="https://github.com/GeovannaCarmo">
