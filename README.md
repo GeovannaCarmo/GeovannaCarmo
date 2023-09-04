@@ -48,7 +48,7 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
 
 - 👾 Meus hobbies são: 
   - Estudar JAVA 🤓;
-  - Ler um bom romance 📖;
+  - Livros 📖;
   - Dançar 💃
   - Filmes de terror 🎥;
   - Quebra-cabeças 🧩 ;  
