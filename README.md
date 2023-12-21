@@ -63,6 +63,13 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
   - Programação orientada a objetos;
   - VBA.
 
+- 💻 Experiências adquiridas no Trabalho:
+  - Teste Unitário;
+  - Apache Camel;
+  - Spring Boot;
+  - Monitoramento da Saúde das Aplicações;
+  - Interface de programação de aplicativos (API)
+
 ##
 
 📫 Se quiser entrar em contato, pode me mandar um email: geovannadocarmogsilva@gmail.com
