@@ -68,7 +68,7 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
   - Apache Camel;
   - Spring Boot;
   - Monitoramento da Saúde das Aplicações;
-  - Interface de programação de aplicativos (API)
+  - Interface de programação de aplicativos (API).
 
 ##
 
