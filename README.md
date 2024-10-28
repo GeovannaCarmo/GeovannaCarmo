@@ -47,7 +47,7 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
 **Meus interesses pessoais:**
 
 - 👾 Meus hobbies são: 
-  - Estudar JAVA 🤓;
+  - Estudar JAVA e IA🤓;
   - Livros 📖;
   - Dançar 💃
   - Filmes de terror 🎥;
@@ -62,10 +62,15 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b>
   - UML;
   - Programação orientada a objetos;
   - VBA.
+  - O básico de MSDOS
 
 - 💻 Experiências adquiridas no Trabalho:
+  - JAVA
   - Teste Unitário;
   - Apache Camel;
+  - Apache Kafka
+  - Kubernetes
+  - AWS
   - Spring Boot;
   - Monitoramento da Saúde das Aplicações;
   - Interface de programação de aplicativos (API).
